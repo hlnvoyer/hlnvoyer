@@ -9,3 +9,8 @@ hlnvoyer/hlnvoyer is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <a href="https://app.daily.dev/techladywriter"><img src="https://api.daily.dev/devcards/0ea429d3c3b74f35a3840bedd0e6064f.png?r=46r" width="400" alt="Helene Voyer's Dev Card"/></a>
+
+Current Project Status:
+
+https://user-images.githubusercontent.com/104003953/224514893-00d0e29b-34b1-426e-83aa-29e9b55432a2.mp4
+
