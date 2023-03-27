@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hélène Voyer
-- 👀 I’m interested in PHP and Joomla
+- 👀 I’m interested in PHP, Laravel and Joomla
 - 🌱 I’m currently learning Flutter programming
 - 💞️ I’m looking to collaborate on mobile applications 
 - 📫 You may reach me at support@helenevoyer.com
