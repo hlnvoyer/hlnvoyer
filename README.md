@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hélène Voyer
-- 👀 I’m interested in PHP, Laravel and Joomla
-- 🌱 I’m currently learning Flutter programming
+- 👀 I’m interested in Java, Struts, Spring, PHP, and WordPress 
+- 🌱 I’m currently writing a book in French (more information at www.editionshelenevoyer.ca)
 - 💞️ I’m looking to collaborate on mobile applications 
-- 📫 You may reach me at support@helenevoyer.com
+- 📫 You may reach me info@helenevoyer.ca
  
 <!---
 hlnvoyer/hlnvoyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
