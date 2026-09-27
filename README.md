@@ -9,8 +9,3 @@ hlnvoyer/hlnvoyer is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-Current Project Status:
-
-https://user-images.githubusercontent.com/104003953/224514893-00d0e29b-34b1-426e-83aa-29e9b55432a2.mp4
-
